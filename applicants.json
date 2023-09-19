@@ -1,0 +1,258 @@
+[
+    {
+      "pictureUrl": "https://media.licdn.com/dms/image/C4D03AQGPF49g9ADT9A/profile-displayphoto-shrink_400_400/0/1654152786344?e=1700697600&v=beta&t=l_6ftA3PcRz2OuyPSvxRfftTLJVOkeP4KgN7TtnDRRc",
+      "pictureAlt": "Adam",
+      "name": "Adam Chan",
+      "briefWorkExperience": "Resource Planner with 3.5 years of experience",
+      "appliedRole": "Front-end Developer",
+      "isExperiencedApplicant": false,
+      "technicalSkills": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "MongoDB"
+      ],
+      "specialTraining": "General Assembly Software Engineering Immersive Bootcamp",
+      "transferableSkills": [
+        "Analytical skills",
+        "communication",
+        "procurement",
+        "teamwork"
+      ],
+      "showcaseCardPropsList": [
+        {
+          "showcaseTitle": "Portfolio",
+          "showcaseDescription": "Self Portofolio Built on Next.js and tailwindcss",
+          "showcaseUrl": "https://josephlau-portfolio.vercel.app/",
+          "showcaseTags": [
+            "Python",
+            "Ruby on Rails"
+          ]
+        },
+        {
+          "showcaseTitle": "Musterclass",
+          "showcaseDescription": "Built with MERN with Typescript, MusterClass is a web-app that allows users to view various lessons. Features include user signup/login with JWT authentication, subscription plan via Stripe API and view available lessons based on 3 subscription tiers.",
+          "showcaseUrl": "https://shoedog.vercel.app/",
+          "showcaseTags": [
+            "Typescript",
+            "HTML",
+            "Java",
+            "MySQL"
+          ]
+        },
+        {
+          "showcaseTitle": "Nyna Airlines",
+          "showcaseDescription": "A collaborative project with two other team members. Nyna Airlines is a web-based Flight Booking System. Features include ticket booking, flight search and manage booking. Stripe API was integrated to simulate mock payments. This project was built with MERN stack.",
+          "showcaseUrl": "https://shoedog.vercel.app/",
+          "showcaseTags": [
+            "HTML",
+            "CSS",
+            "Javascript"
+          ]
+        }
+      ],
+      "profileId": 1,
+      "summaryStatement": "Highly motivated and driven with strong interpersonal skills. Trustworthy and steadfast in my undertakings with a keen eye for detail.",
+      "formalEducation": "Bachelor's degree on Logistics, Material, and Supply Chain Management",
+      "phoneNumber": "+65 87820189",
+      "email": "joseph@gmail.com",
+      "languages": [
+        "English",
+        "Chinese"
+      ]
+    },
+    {
+      "pictureUrl": "https://media.licdn.com/dms/image/C5603AQFmmC85GyPPZw/profile-displayphoto-shrink_400_400/0/1662880054393?e=1700697600&v=beta&t=suihZq-Jjte8heU3NaTGTwID26LlqqubBK0vfrQa60o",
+      "pictureAlt": "Beatric Tan",
+      "name": "Beatric Tan",
+      "briefWorkExperience": "Teacher with 7 years of experience",
+      "appliedRole": "Front-end Developer",
+      "isExperiencedApplicant": false,
+      "technicalSkills": [
+        "Javascript",
+        "HTML",
+        "SQL",
+        "Postgresql",
+        "MongoDB"
+      ],
+      "specialTraining": "General Assembly Software Engineering Immersive Bootcamp",
+      "transferableSkills": [
+        "Team Leadership",
+        "Problem Solving",
+        "Stakeholder Management",
+        "Teaching"
+      ],
+      "showcaseCardPropsList": [
+        {
+          "showcaseTitle": "Submitwat",
+          "showcaseDescription": "A homework management app for teachers to manage homework collections",
+          "showcaseUrl": "https://submitwat-client.vercel.app/",
+          "showcaseTags": [
+            "HTML",
+            "CSS",
+            "Javascript"
+          ]
+        },
+        {
+          "showcaseTitle": "Fiscal Expense Tracker",
+          "showcaseDescription": "A full-stack app for daily day to day expense tracking, built with MongoDB, Mongoose, Express, React, Node and Javascript.",
+          "showcaseUrl": "https://fiscal-expense-tracker.vercel.app",
+          "showcaseTags": [
+            "C#",
+            "SQL"
+          ]
+        },
+        {
+          "showcaseTitle": "WatchWat",
+          "showcaseDescription": "A React web-hosted site that uses API calls to populate a list for you to track and favourite your shows, built with React, Javascript with API calls.",
+          "showcaseUrl": "https://watchwatv2.vercel.app",
+          "showcaseTags": [
+            "Ruby on Rails",
+            "NodeJS"
+          ]
+        }
+      ],
+      "profileId": 2,
+      "summaryStatement": "I was a teacher in MOE for 7 years, teaching not only the mainstream subjects but also coding to the primary school students. I was exposed to coding in a gradual process from block coding to script coding. I fell in love with coding and started self-learning some programming languages. While doing so, I discovered the limitless possibilities of programming and want to explore it in depth. Thus, I took a jump and left teaching for the programming field. I am excited to immerse myself in the world of programming.",
+      "formalEducation": "Diploma in Educationn",
+      "phoneNumber": "+65 87820189",
+      "email": "beatric_tan@gmail.com",
+      "languages": [
+        "English",
+        "Chinese"
+      ]
+    },
+    {
+      "pictureUrl": "https://bit.ly/dan-abramov",
+      "pictureAlt": "Dan Abramov",
+      "name": "First UX Designer",
+      "briefWorkExperience": "Digital marketer with 8 years of experience",
+      "appliedRole": "UX Designer",
+      "isExperiencedApplicant": true,
+      "technicalSkills": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ],
+      "specialTraining": "General Assembly Software Engineering Immersive Bootcamp",
+      "transferableSkills": [
+        "Analytical skills",
+        "communication",
+        "procurement",
+        "teamwork"
+      ],
+      "showcaseCardPropsList": [
+        {
+          "showcaseTitle": "Animal Shelter",
+          "showcaseDescription": "Re-built the website using HTML5/CSS3",
+          "showcaseUrl": "https://shoedog.vercel.app/"
+        },
+        {
+          "showcaseTitle": "Musterclass",
+          "showcaseDescription": "Built with MERN with Typescript, MusterClass is a web-app that allows users to view various lessons. Features include user signup/login with JWT authentication, subscription plan via Stripe API and view available lessons based on 3 subscription tiers.",
+          "showcaseUrl": "https://shoedog.vercel.app/"
+        },
+        {
+          "showcaseTitle": "Nyna Airlines",
+          "showcaseDescription": "A collaborative project with two other team members. Nyna Airlines is a web-based Flight Booking System. Features include ticket booking, flight search and manage booking. Stripe API was integrated to simulate mock payments. This project was built with MERN stack.",
+          "showcaseUrl": "https://shoedog.vercel.app/"
+        }
+      ],
+      "profileId": 3,
+      "summaryStatement": "Having worked as an interior designer for more than a decade, he has gained a wealth of experience in the field and has honed his craft to a fine art. Now, he is excited to take on a new challenge in the field of software engineering. He is eager to apply the skills he has developed as an interior designer to this new field... read more",
+      "formalEducation": "Master's degree in Architecture from Singapore University of echnology and Design",
+      "phoneNumber": "+65 87820189",
+      "email": "yewwee@gmail.com",
+      "languages": [
+        "English",
+        "Chinese"
+      ]
+    },
+    {
+      "pictureUrl": "https://bit.ly/dan-abramov",
+      "pictureAlt": "Dan Abramov",
+      "name": "First Business Analyst Person",
+      "briefWorkExperience": "Second person with 10 years of experience",
+      "appliedRole": "Business Analyst",
+      "isExperiencedApplicant": true,
+      "technicalSkills": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ],
+      "specialTraining": "General Assembly Software Engineering Immersive Bootcamp",
+      "transferableSkills": [
+        "Analytical skills",
+        "communication",
+        "procurement",
+        "teamwork"
+      ],
+      "showcaseCardPropsList": [
+        {
+          "showcaseTitle": "BA Cert 1",
+          "showcaseUrl": "https://shoedog.vercel.app/"
+        },
+        {
+          "showcaseTitle": "BA Cert 2",
+          "showcaseUrl": "https://shoedog.vercel.app/"
+        },
+        {
+          "showcaseTitle": "UX Portfolio 3",
+          "showcaseUrl": "https://shoedog.vercel.app/"
+        }
+      ],
+      "profileId": 4,
+      "summaryStatement": "I'm the second applicant, who am I?",
+      "formalEducation": "Master's degree as the second applient",
+      "phoneNumber": "+65 87820189",
+      "email": "second_applicant@gmail.com",
+      "languages": [
+        "English",
+        "Chinese"
+      ]
+    },
+    {
+      "pictureUrl": "https://bit.ly/dan-abramov",
+      "pictureAlt": "Dan Abramov",
+      "name": "Second BA Person",
+      "briefWorkExperience": "Second person with 10 years of experience",
+      "appliedRole": "Business Analyst",
+      "isExperiencedApplicant": true,
+      "technicalSkills": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ],
+      "specialTraining": "General Assembly Software Engineering Immersive Bootcamp",
+      "transferableSkills": [
+        "Analytical skills",
+        "communication",
+        "procurement",
+        "teamwork"
+      ],
+      "showcaseCardPropsList": [
+        {
+          "showcaseTitle": "Scrum Fundamentals Certified (SFC)",
+          "showcaseUrl": "https://www.scrumstudy.com/certification/verify?type=SFC&number=889223"
+        },
+        {
+          "showcaseTitle": "another certicate",
+          "showcaseUrl": "https://shoedog.vercel.app/"
+        },
+        {
+          "showcaseTitle": "third cert",
+          "showcaseUrl": "https://shoedog.vercel.app/"
+        }
+      ],
+      "profileId": 5,
+      "summaryStatement": "I'm the third applicant, who am I?",
+      "formalEducation": "Master's degree as the third applient",
+      "phoneNumber": "+65 0000 0003",
+      "email": "third_applicant@gmail.com",
+      "languages": [
+        "English",
+        "Chinese"
+      ]
+    }
+  ]
+  
